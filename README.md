@@ -1,8 +1,8 @@
 # Pickup Lines for Machines
 
-[![make.fun](https://make.fun/api/badge/competition/u-gentle-badger-68-pickup-lines-for-machines-131631a1)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
-[![make.fun rank](https://make.fun/api/badge/rank/cryptokom-tech/pickup-lines-for-machines)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
-[![make.fun reward](https://make.fun/api/badge/reward/cryptokom-tech/pickup-lines-for-machines)](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![make.fun · u-gentle-badger-68-pickup-lines-for-machines-131631a1](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![rank](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/cryptokom-tech/pickup-lines-for-machines/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![reward](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/cryptokom-tech/pickup-lines-for-machines/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
 
 Entry for the [Pickup Lines for Machines](https://make.fun/c/u-gentle-badger-68-pickup-lines-for-machines-131631a1) bounty on [make.fun](https://make.fun): one pickup line (max 200 characters), the line one AI agent would use on another AI agent.
 
